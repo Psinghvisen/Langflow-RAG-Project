@@ -1,0 +1,37 @@
+
+=== Chat Logs ===
+User: Hi, I forgot my password. How do I reset it?
+Support: No worries! You can reset your password by clicking on “Forgot Password” on the login page.
+
+User: Can I change my email address?
+Support: Yes! Go to Account Settings → Email, and you can update it there.
+
+User: What is the refund policy?
+Support: You can request a refund within 30 days of purchase, as long as your account is in good standing.
+
+User: Is there a mobile app?
+Support: Yes, we have apps for both iOS and Android. Search for “OurApp” in your app store.
+
+User: I’m seeing error code 403.
+Support: Error 403 usually means permission denied. Please check if you're using the correct credentials.
+
+
+
+=== Company Policy & FAQ ===
+Work From Home Policy:
+Employees may work remotely up to 3 days a week. Exceptions require manager approval.
+
+Parental Leave:
+We offer 16 weeks of paid parental leave for primary caregivers, and 6 weeks for secondary caregivers.
+
+Health Insurance:
+Benefits begin on the 1st day of the month following your start date. We offer medical, dental, and vision plans.
+
+Vacation Days:
+Full-time employees receive 15 vacation days per year, plus 10 paid holidays.
+
+IT Support:
+If you're facing technical issues, email helpdesk@company.com or call extension 411.
+
+Office Hours:
+Our standard office hours are 9 AM – 5 PM, Monday to Friday. Flex schedules are available upon approval.
